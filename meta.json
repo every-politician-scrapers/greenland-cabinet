@@ -1,7 +1,13 @@
 {
+    "jurisdiction": {
+      "name": "Greenland",
+      "id": "Q223"
+    },
     "cabinet": {
       "id": "Q106797236",
-      "start": "2021-04-23"
+      "start": "2021-04-23",
+      "parent": "Q10858355"
+
     },
     "source": {
         "url":   "https://naalakkersuisut.gl/en/Naalakkersuisut/Medlemmer-af-Naalakkersuisut",
