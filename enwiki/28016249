@@ -1,0 +1,99 @@
+{
+  "title": "Asii Chemnitz Narup",
+  "pageID": 28016249,
+  "categories": [
+    "1954 births",
+    "Living people",
+    "Mayors of Nuuk",
+    "Inuit Ataqatigiit politicians",
+    "Greenlandic socialists",
+    "Greenlandic Inuit people",
+    "Greenlandic people of Danish descent",
+    "Government ministers of Greenland",
+    "21st-century Danish women politicians",
+    "21st-century Greenlandic politicians",
+    "Women government ministers of Greenland"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Asii Chemnitz Narup (born 1954) is a Greenlandic politician and MP for the party Inuit Ataqatigiit.",
+              "links": [
+                {
+                  "text": "Greenlandic",
+                  "type": "internal",
+                  "page": "Greenland"
+                },
+                {
+                  "type": "internal",
+                  "page": "Inuit Ataqatigiit"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Asii Chemnitz Narup"
+                ]
+              }
+            },
+            {
+              "text": "Narup was the country's environmental and health minister between 2005 and 2006."
+            },
+            {
+              "text": "She resigned in protest against what she felt was a poorly functioning government."
+            },
+            {
+              "text": "She is currently the mayor of Sermersooq.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Sermersooq"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Greenlandic politician",
+          "template": "short description"
+        },
+        {
+          "date": "November 2018",
+          "template": "when"
+        }
+      ],
+      "references": [
+        {
+          "url": "http://www.nunatsiaqonline.ca/archives/61215/news/arctic/briefs.html",
+          "title": "Greenland minister resigns",
+          "website": "Nunatsiaq Online",
+          "date": "1 December 2006",
+          "accessdate": "17 November 2018",
+          "archive-url": "https://archive.is/20120525102159/http://www.nunatsiaqonline.ca/archives/61215/news/arctic/briefs.html",
+          "archive-date": "25 May 2012",
+          "url-status": "dead",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "greenland-mayor-stub"
+        }
+      ]
+    }
+  ]
+}

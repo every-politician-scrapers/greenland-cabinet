@@ -1,0 +1,210 @@
+{
+  "title": "Paneeraq Olsen",
+  "pageID": 68829870,
+  "categories": [
+    "1958 births",
+    "Living people",
+    "21st-century Greenlandic politicians",
+    "Naleraq politicians",
+    "Government ministers of Greenland",
+    "Members of the Parliament of Greenland",
+    "Greenlandic city councillors",
+    "People from Sisimiut"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Paneeraq Olsen (born 26 December 1958 in Sisimiut) is a Greenlandic politician (Naleraq) and civil servant.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Sisimiut"
+                },
+                {
+                  "text": "Greenlandic",
+                  "type": "internal",
+                  "page": "Greenland"
+                },
+                {
+                  "type": "internal",
+                  "page": "Naleraq"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Paneeraq Olsen"
+                ]
+              }
+            },
+            {
+              "text": "She became Minister for Children, Youth and Families in the Egede cabinet in 2021.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Egede cabinet"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Political career",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Paneeraq Olsen was elected to Inatsisartut (the parliament of Greenland) and the municipal council of Qeqqata in the elections in 2021.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Inatsisartut"
+                },
+                {
+                  "type": "internal",
+                  "page": "Qeqqata"
+                }
+              ]
+            },
+            {
+              "text": "She received 99 votes in the Inatsisartut election.",
+              "links": [
+                {
+                  "text": "Inatsisartut election",
+                  "type": "internal",
+                  "page": "2021 Greenlandic general election"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "On 27 September 2021, Olsen was appointed minister for children, young people and families, where she replaced Mimi Karlsen (IA) who had temporarily held the post since Eqaluk Høegh (IA) had withdrew from the Naalakkersuisut for health reasons the month before.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Mimi Karlsen"
+                },
+                {
+                  "text": "IA",
+                  "type": "internal",
+                  "page": "Inuit Ataqatigiit"
+                },
+                {
+                  "type": "internal",
+                  "page": "Eqaluk Høegh"
+                },
+                {
+                  "type": "internal",
+                  "page": "Naalakkersuisut"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "url": "https://knr.gl/da/nyheder/pele-broberg-er-ikke-l%C3%A6ngere-naalakkersuisoq-udenrigsanliggender",
+          "title": "Pele Broberg er ikke længere naalakkersuisoq for udenrigsanliggender",
+          "date": "27 September 2021",
+          "accessdate": "27 September 2021",
+          "publisher": "KNR",
+          "language": "da",
+          "template": "citation",
+          "type": "citation"
+        },
+        {
+          "url": "https://ina.gl/media/2549221/paneeraq-olsen.pdf",
+          "title": "CV Paneeraq Olsen",
+          "publisher": "Inatsisartut",
+          "accessdate": "27 September 2021",
+          "language": "da",
+          "template": "citation",
+          "type": "citation"
+        },
+        {
+          "url": "https://knr.gl/da/nyheder/paneeraq-olsen-bliver-ny-naalakkersuisoq-b%C3%B8rn-unge-og-familier",
+          "title": "Paneeraq Olsen bliver ny naalakkersuisoq for børn, unge og familier",
+          "date": "27 September 2021",
+          "accessdate": "27 September 2021",
+          "publisher": "KNR",
+          "language": "da",
+          "template": "citation",
+          "type": "citation"
+        }
+      ]
+    },
+    {
+      "title": "Education and career",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Olsen graduated from highschool in Nuuk 1992 and she is MPA from Ilisimatusarfik (University of Greenland), Nuuk 1999.",
+              "links": [
+                {
+                  "text": "MPA",
+                  "type": "internal",
+                  "page": "Master of Public Administration"
+                },
+                {
+                  "type": "internal",
+                  "page": "Ilisimatusarfik"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "She was ministerial secretary for Hans Enoksen from 2001 to 2004.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Hans Enoksen"
+                }
+              ]
+            },
+            {
+              "text": "Olsen was municipal director in the former Sisimiut Municipality from 2004 to 2008, and after Greenland's municipal reform municipal director in Qeqqata Municipality from 2009 til 2019.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Sisimiut Municipality"
+                },
+                {
+                  "type": "internal",
+                  "page": "Qeqqata Municipality"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "greenland-politician-stub"
+        }
+      ]
+    }
+  ]
+}
