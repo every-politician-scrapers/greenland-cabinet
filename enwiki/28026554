@@ -84,18 +84,6 @@
           "inline": {}
         }
       ]
-    },
-    {
-      "title": "References",
-      "depth": 0,
-      "templates": [
-        {
-          "template": "reflist"
-        },
-        {
-          "template": "greenland-politician-stub"
-        }
-      ]
     }
   ]
 }

@@ -356,43 +356,6 @@
           "type": "web"
         }
       ]
-    },
-    {
-      "title": "References",
-      "depth": 0,
-      "templates": [
-        {
-          "template": "reflist"
-        },
-        {
-          "template": "commonscat"
-        },
-        {
-          "template": "s-start"
-        },
-        {
-          "template": "s-off"
-        },
-        {
-          "before": "Jonathan Motzfeldt",
-          "template": "s-bef"
-        },
-        {
-          "title": "Prime Minister of Greenland",
-          "years": "2002–2009",
-          "template": "s-ttl"
-        },
-        {
-          "after": "Kuupik Kleist",
-          "template": "s-aft"
-        },
-        {
-          "template": "prime minister of greenland"
-        },
-        {
-          "template": "greenland-politician-stub"
-        }
-      ]
     }
   ]
 }
