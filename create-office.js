@@ -12,12 +12,7 @@ module.exports = (label) => {
       P31:   { value: 'Q294414' }, // instance of: public office
       P279:  { value: 'Q83307'  }, // subclas of: minister
       P1001: { value: 'Q223'    }, // jurisdiction: Greenland
-      P361: {
-        value: 'Q10858355',         // part of: Government of Greenland
-        references: {
-          P854: 'https://naalakkersuisut.gl/en/Naalakkersuisut/Medlemmer-af-Naalakkersuisut',
-        },
-      }
+      P361:  { value: 'Q10858355' } // part of: Cabinet
     }
   }
 }
