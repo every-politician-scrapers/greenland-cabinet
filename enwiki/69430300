@@ -1,0 +1,76 @@
+{
+  "title": "Mariane Paviasen",
+  "pageID": 69430300,
+  "categories": [
+    "21st-century Greenlandic politicians",
+    "21st-century women politicians",
+    "Anti-uranium activists",
+    "Greenlandic women in politics",
+    "Government ministers of Greenland",
+    "Inuit Ataqatigiit politicians",
+    "Living people",
+    "Women government ministers of Greenland"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Mariane Paviasen (born 1965 (age 56)) is a Greenlandic politician.",
+              "formatting": {
+                "bold": [
+                  "Mariane Paviasen"
+                ]
+              }
+            },
+            {
+              "text": "She was elected to the Inatsisartut, the parliament of Greenland, during the 2021 general election.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Inatsisartut"
+                },
+                {
+                  "text": "2021 general election",
+                  "type": "internal",
+                  "page": "2021 Greenlandic general election"
+                }
+              ]
+            },
+            {
+              "text": "She is a member of the Inuit Ataqatigiit party and a vocal opponent to uranium mining.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Inuit Ataqatigiit"
+                },
+                {
+                  "text": "uranium",
+                  "type": "internal",
+                  "page": "uranium"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Greenlandic politician (born 1964/1965)",
+          "template": "short description"
+        },
+        {
+          "age": "56",
+          "year": "2021",
+          "month": "5",
+          "day": "3",
+          "noage": "1",
+          "template": "birth based on age as of date"
+        }
+      ]
+    }
+  ]
+}
