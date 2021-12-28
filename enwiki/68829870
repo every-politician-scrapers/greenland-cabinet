@@ -52,6 +52,12 @@
             }
           ]
         }
+      ],
+      "templates": [
+        {
+          "description": "Greenlandic politician (born 1958)",
+          "template": "short description"
+        }
       ]
     }
   ]
