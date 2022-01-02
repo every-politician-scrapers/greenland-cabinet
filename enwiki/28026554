@@ -75,14 +75,6 @@
           "date": "January 2018",
           "template": "when"
         }
-      ],
-      "references": [
-        {
-          "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
-        }
       ]
     }
   ]

@@ -315,46 +315,6 @@
             ]
           }
         }
-      ],
-      "references": [
-        {
-          "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
-        },
-        {
-          "url": "http://www.nunatsiaq.com/archives/nunavut021213/news/nunavut/21213_04.html",
-          "title": "Nunatsiaq News: Unilingual Inuk becomes Greenland's new premier",
-          "access-date": "2007-11-15",
-          "archive-url": "https://web.archive.org/web/20080704133908/http://www.nunatsiaq.com/archives/nunavut021213/news/nunavut/21213_04.html",
-          "archive-date": "2008-07-04",
-          "url-status": "dead",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
-        },
-        {
-          "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
-        },
-        {
-          "url": "http://valg.gl/Candidates.aspx?electionGuid=b0578019-e04f-4cde-92fa-6a3355cd383d&language=da-DK",
-          "title": "valg.gl",
-          "access-date": "2014-11-29",
-          "archive-url": "https://archive.today/20141130014339/http://valg.gl/Candidates.aspx?electionGuid=b0578019-e04f-4cde-92fa-6a3355cd383d&language=da-DK",
-          "archive-date": "2014-11-30",
-          "url-status": "dead",
-          "template": "citation",
-          "type": "web"
-        }
       ]
     }
   ]
