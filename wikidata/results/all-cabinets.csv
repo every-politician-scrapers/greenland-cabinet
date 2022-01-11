@@ -1,6 +1,6 @@
 ordinal,item,itemLabel,inception,inceptionPrecision,startTime,startTimePrecision,abolished,abolishedPrecision,endTime,endTimePrecision,replaces,replacesLabel,replacedBy,replacedByLabel,follows,followsLabel,followedBy,followedByLabel
-,Q52458392,Q52458392,,,,,1984-01-01,9,,,Q52404095,Q52404095,Q52545295,Q52545295,,,,
-,Q52545295,Q52545295,,,,,1987-01-01,9,,,Q52458392,Q52458392,Q52545297,Q52545297,,,,
+,Q52458392,2nd Motzfeldt Cabinet,,,,,1984-01-01,9,,,Q52404095,Q52404095,Q52545295,Q52545295,,,,
+,Q52545295,Q52545295,,,,,1987-01-01,9,,,Q52458392,2nd Motzfeldt Cabinet,Q52545297,Q52545297,,,,
 ,Q52545297,Q52545297,,,,,1988-01-01,9,,,Q52545295,Q52545295,Q52922463,Q52922463,,,,
 ,Q52922463,Q52922463,,,,,,,,,Q52545297,Q52545297,Q99671697,Q99671697,,,,
 ,Q7604603,Q7604603,,,,,,,,,Q99673311,Q99673311,Q99736311,Q99736311,,,,
@@ -17,7 +17,7 @@ ordinal,item,itemLabel,inception,inceptionPrecision,startTime,startTimePrecision
 ,Q99673311,Q99673311,,,,,,,,,Q99673310,Q99673310,Q7604603,Q7604603,,,,
 ,Q99736311,Q99736311,,,,,,,,,Q7604603,Q7604603,Q99736342,2nd Hammond Cabinet,,,,
 ,Q99736342,2nd Hammond Cabinet,,,,,,,,,Q99736311,Q99736311,Q99736347,Kielsen Cabinet,,,,
-,Q52404095,Q52404095,1979-01-01,9,,,1983-01-01,9,,,,,Q52458392,Q52458392,,,,
+,Q52404095,Q52404095,1979-01-01,9,,,1983-01-01,9,,,,,Q52458392,2nd Motzfeldt Cabinet,,,,
 ,Q12333085,Aleqa Hammond Cabinet,2013-04-05,11,,,2014-10-01,11,,,,,,,,,,
 ,Q99736347,Kielsen Cabinet,2014-10-01,11,,,2014-12-12,11,,,Q99736342,2nd Hammond Cabinet,Q18647396,Kielsen I Cabinet,,,,
 ,Q18647396,Kielsen I Cabinet,2014-12-11,11,,,2016-10-26,11,,,Q99736347,Kielsen Cabinet,Q23022475,Kielsen II Cabinet,,,,
