@@ -1,6 +1,2 @@
 @@,itemlabel,item,startdate,enddate
-+++,Torben Hede Pedersen,,1979-05-01,1992-07-13
-+++,Steen Spore,Q11339428,1992-08-01,1995-07-01
-+++,Gunnar Martens,Q11339434,1995-07-01,2002-03-31
-+++,Peter Lauritzen,Q4569842,2002-04-01,2005-03-30
-+++,Søren Hald Møller,Q2619114,2005-03-30,2011-01-31
+->,Torben Hede Pedersen,Q11339424->NULL,1979-05-01,1992-07-13
