@@ -1,0 +1,135 @@
+{
+  "title": "Mikaela Engell",
+  "pageID": 32325814,
+  "categories": [
+    "1956 births",
+    "Living people",
+    "High Commissioners of Greenland"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Mikaela Engell (born 4 October 1956) is the current High Commissioner of Greenland, a post she has held since 1 April 2011.",
+              "links": [
+                {
+                  "text": "High Commissioner of Greenland",
+                  "type": "internal",
+                  "page": "List of High Commissioners of Greenland"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Mikaela Engell"
+                ]
+              }
+            },
+            {
+              "text": "She had previously worked in the Danish Ministry of Foreign Affairs, first as a Permanent Secretary and later as a counselor.",
+              "links": [
+                {
+                  "text": "Danish Ministry of Foreign Affairs",
+                  "type": "internal",
+                  "page": "Ministry of Foreign Affairs (Denmark)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "As High Commissioner, Engell has a seat in the Greenlandic Inatsisartut (parliament), representing the Danish monarch and government, and can speak there, but not vote.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Inatsisartut"
+                }
+              ]
+            },
+            {
+              "text": "She is also ex officio a member of the Danish-Greenland Cultural Foundation.",
+              "links": [
+                {
+                  "text": "ex officio",
+                  "type": "internal",
+                  "page": "ex officio"
+                }
+              ],
+              "formatting": {
+                "italic": [
+                  "ex officio"
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Danish High Commissioner of Greenland",
+          "template": "short description"
+        },
+        {
+          "year": "1956",
+          "month": "10",
+          "day": "04",
+          "df": "y",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Mikaela Engell"
+          },
+          "order": {
+            "text": "6th"
+          },
+          "office": {
+            "text": "High Commissioner of Greenland"
+          },
+          "term_start": {
+            "text": "1 February 2011"
+          },
+          "predecessor": {
+            "text": "Søren Hald Møller",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Søren Hald Møller"
+              }
+            ]
+          },
+          "citizenship": {
+            "text": "Kingdom of Denmark",
+            "links": [
+              {
+                "text": "Kingdom of Denmark",
+                "type": "internal",
+                "page": "Danish citizen"
+              }
+            ]
+          },
+          "nationality": {
+            "text": "Danish",
+            "links": [
+              {
+                "text": "Danish",
+                "type": "internal",
+                "page": "Danes"
+              }
+            ]
+          },
+          "birth_date": {
+            "text": "October 4, 1956"
+          }
+        }
+      ]
+    }
+  ]
+}
