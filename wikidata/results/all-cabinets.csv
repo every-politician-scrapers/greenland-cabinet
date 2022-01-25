@@ -1,5 +1,4 @@
 ordinal,item,itemLabel,inception,inceptionPrecision,startTime,startTimePrecision,abolished,abolishedPrecision,endTime,endTimePrecision,replaces,replacesLabel,replacedBy,replacedByLabel,follows,followsLabel,followedBy,followedByLabel
-,Q99736342,2nd Hammond Cabinet,,,,,,,,,Q12333085,First Hammond Cabinet,Q99736347,Kielsen Cabinet,,,,
 ,Q52458392,Motzfeldt II Cabinet,1979-01-01,9,,,1984-01-01,9,,,Q52404095,Motzfeldt I Cabinet,Q52545295,Motzfeldt III Cabinet,,,,
 ,Q52404095,Motzfeldt I Cabinet,1979-05-07,11,,,1983-05-02,11,,,,,Q52458392,Motzfeldt II Cabinet,,,,
 ,Q52545295,Motzfeldt III Cabinet,1984-06-17,11,,,1987-06-09,11,,,Q52458392,Motzfeldt II Cabinet,Q52545297,Motzfeldt IV Cabinet,,,,
@@ -17,6 +16,7 @@ ordinal,item,itemLabel,inception,inceptionPrecision,startTime,startTimePrecision
 ,Q7604757,Enoksen V Cabinet,2007-05-01,11,,,2009-06-12,11,,,Q99673310,Enoksen IV Cabinet,Q7604603,Kleist Cabinet,,,,
 ,Q7604603,Kleist Cabinet,2009-06-12,11,,,2013-03-26,11,,,Q7604757,Enoksen V Cabinet,Q12333085,First Hammond Cabinet,,,,
 ,Q12333085,First Hammond Cabinet,2013-04-05,11,,,2014-10-01,11,,,Q7604603,Kleist Cabinet,Q99736342,2nd Hammond Cabinet,,,,
+,Q99736342,2nd Hammond Cabinet,2013-11-05,11,,,2014-10-01,11,,,Q12333085,First Hammond Cabinet,Q99736347,Kielsen Cabinet,,,,
 ,Q99736347,Kielsen Cabinet,2014-10-01,11,,,2014-12-12,11,,,Q99736342,2nd Hammond Cabinet,Q18647396,Kielsen I Cabinet,,,,
 ,Q18647396,Kielsen I Cabinet,2014-12-11,11,,,2016-10-26,11,,,Q99736347,Kielsen Cabinet,Q23022475,Kielsen II Cabinet,,,,
 ,Q23022475,Kielsen II Cabinet,2016-02-02,11,,,2018-01-01,9,,,Q18647396,Kielsen I Cabinet,Q48743208,Kielsen III Cabinet,Q18647396,Kielsen I Cabinet,Q48743208,Kielsen III Cabinet
