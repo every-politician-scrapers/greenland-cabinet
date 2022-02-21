@@ -17,9 +17,8 @@
               "text": "Mikaela Engell (born 4 October 1956) is the current High Commissioner of Greenland, a post she has held since 1 April 2011.",
               "links": [
                 {
-                  "text": "High Commissioner of Greenland",
                   "type": "internal",
-                  "page": "List of High Commissioners of Greenland"
+                  "page": "High Commissioner of Greenland"
                 }
               ],
               "formatting": {
@@ -43,16 +42,30 @@
         {
           "sentences": [
             {
-              "text": "As High Commissioner, Engell has a seat in the Greenlandic Inatsisartut (parliament), representing the Danish monarch and government, and can speak there, but not vote.",
+              "text": "As High Commissioner, Engell has a seat in the Inatsisartut (parliament of Greenland), representing the Danish monarch and government, and can speak there, but not vote.",
               "links": [
                 {
                   "type": "internal",
                   "page": "Inatsisartut"
+                },
+                {
+                  "type": "internal",
+                  "page": "Greenland"
+                },
+                {
+                  "text": "monarch",
+                  "type": "internal",
+                  "page": "Monarchy of Denmark"
+                },
+                {
+                  "text": "government",
+                  "type": "internal",
+                  "page": "Government of Denmark"
                 }
               ]
             },
             {
-              "text": "She is also ex officio a member of the Danish-Greenland Cultural Foundation.",
+              "text": "She is also an ex officio member of the Danish-Greenland Cultural Foundation.",
               "links": [
                 {
                   "text": "ex officio",
