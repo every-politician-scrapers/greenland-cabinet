@@ -1,236 +1,29 @@
 {
-  "title": "Pele Broberg",
-  "pageID": 68852106,
-  "categories": [
-    "1972 births",
-    "Living people",
-    "21st-century Greenlandic politicians",
-    "Naleraq politicians",
-    "Government ministers of Greenland",
-    "Members of the Parliament of Greenland",
-    "Greenlandic city councillors"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Pele Broberg (born 1972) is a Greenlandic politician (Naleraq), entrepreneur and pilot.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Naleraq"
-                }
-              ],
-              "formatting": {
-                "bold": [
-                  "Pele Broberg"
-                ]
-              }
-            },
-            {
-              "text": "He became minister of foreign affairs, trade, climate and business in April 2021, but foreign affairs and climate was transferred to premier of Greenland Múte Bourup Egede in September 2021 after a controversy.",
-              "links": [
-                {
-                  "text": "premier of Greenland",
-                  "type": "internal",
-                  "page": "premier of Greenland"
-                },
-                {
-                  "type": "internal",
-                  "page": "Múte Bourup Egede"
-                }
-              ]
-            },
-            {
-              "text": "Broberg was minister for finance in 2018."
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "birth_year": "1972",
-          "template": "birth year and age"
-        }
-      ],
-      "infoboxes": [
-        {
-          "image": {
-            "text": "Pele Broberg with Tony Blinken, Jeppe Kofod and Jenis av Rana in Copenhagen (2021) (cropped).jpg"
-          },
-          "office": {
-            "text": "Minister for Business and Trade"
-          },
-          "term_start": {
-            "text": "27 September 2021"
-          },
-          "predecessor": {
-            "text": "Pele Broberg"
-          },
-          "primeminister": {
-            "text": "Múte Bourup Egede",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Múte Bourup Egede"
-              }
-            ]
-          },
-          "office2": {
-            "text": "Minister for Foreign Affairs, Trade, Climate and Business"
-          },
-          "term_start2": {
-            "text": "23 April 2021"
-          },
-          "term_end2": {
-            "text": "27 September 2021"
-          },
-          "predecessor2": {
-            "text": "Kim Kielsen (Foreign affairs)\nVittus Qujaukitsoq (Business)",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Kim Kielsen"
-              },
-              {
-                "type": "internal",
-                "page": "Vittus Qujaukitsoq"
-              }
-            ]
-          },
-          "successor2": {
-            "text": "Pele Broberg (Trade and Business) Múte Bourup Egede (Foreign Affairs and Climate)",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Múte Bourup Egede"
-              }
-            ]
-          },
-          "primeminister2": {
-            "text": "Múte Bourup Egede",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Múte Bourup Egede"
-              }
-            ]
-          },
-          "office3": {
-            "text": "Minister for Finance"
-          },
-          "term_start3": {
-            "text": "15 May 2018"
-          },
-          "term_end3": {
-            "text": "10 September 2018"
-          },
-          "predecessor3": {
-            "text": "Aqqaluaq B. Egede",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Aqqaluaq B. Egede"
-              }
-            ]
-          },
-          "successor3": {
-            "text": "Vittus Qujaukitsoq",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Vittus Qujaukitsoq"
-              }
-            ]
-          },
-          "primeminister3": {
-            "text": "Kim Kielsen",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Kim Kielsen"
-              }
-            ]
-          },
-          "office4": {
-            "text": "Member of Inatsisartut",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Inatsisartut"
-              }
-            ]
-          },
-          "term_start4": {
-            "text": "24 April 2018"
-          },
-          "citizenship": {
-            "text": "Kingdom of Denmark",
-            "links": [
-              {
-                "text": "Kingdom of Denmark",
-                "type": "internal",
-                "page": "Danish citizen"
-              }
-            ]
-          },
-          "birth_date": {
-            "text": "1972 (age 50)"
-          },
-          "birth_place": {
-            "text": "Copenhagen, Denmark",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Copenhagen"
-              },
-              {
-                "type": "internal",
-                "page": "Denmark"
-              }
-            ]
-          },
-          "party": {
-            "text": "Naleraq",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Naleraq"
-              }
-            ]
-          },
-          "spouse": {
-            "text": "Malene Broberg"
-          },
-          "nationality": {
-            "text": "Greenlandic",
-            "links": [
-              {
-                "text": "Greenlandic",
-                "type": "internal",
-                "page": "Greenland"
-              }
-            ]
-          },
-          "children": {
-            "text": "2",
-            "number": 2
-          },
-          "alma_mater": {
-            "text": "Copenhagen Business School",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Copenhagen Business School"
-              }
-            ]
-          }
-        }
-      ]
-    }
-  ]
+  "image": "Pele Broberg with Tony Blinken, Jeppe Kofod and Jenis av Rana in Copenhagen (2021) (cropped).jpg",
+  "office": "Minister for Business and Trade",
+  "term_start": "27 September 2021",
+  "predecessor": "Pele Broberg",
+  "primeminister": "Múte Bourup Egede",
+  "office2": "Minister for Foreign Affairs, Trade, Climate and Business",
+  "term_start2": "23 April 2021",
+  "term_end2": "27 September 2021",
+  "predecessor2": "Kim Kielsen (Foreign affairs)\nVittus Qujaukitsoq (Business)",
+  "successor2": "Pele Broberg (Trade and Business) Múte Bourup Egede (Foreign Affairs and Climate)",
+  "primeminister2": "Múte Bourup Egede",
+  "office3": "Minister for Finance",
+  "term_start3": "15 May 2018",
+  "term_end3": "10 September 2018",
+  "predecessor3": "Aqqaluaq B. Egede",
+  "successor3": "Vittus Qujaukitsoq",
+  "primeminister3": "Kim Kielsen",
+  "office4": "Member of Inatsisartut",
+  "term_start4": "24 April 2018",
+  "citizenship": "Kingdom of Denmark",
+  "birth_date": "1972 (age 50)",
+  "birth_place": "Copenhagen, Denmark",
+  "party": "Naleraq",
+  "spouse": "Malene Broberg",
+  "nationality": "Greenlandic",
+  "children": "2",
+  "alma_mater": "Copenhagen Business School"
 }
