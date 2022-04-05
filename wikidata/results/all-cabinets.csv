@@ -28,4 +28,5 @@ ordinal,item,itemLabel,inception,inceptionPrecision,startTime,startTimePrecision
 ,Q96385892,Kielsen VII Cabinet,2020-05-29,11,,,2021-02-08,11,,,Q60747425,Kielsen V Cabinet,Q105834380,Kielsen VIII Cabinet,,,,
 ,Q105834380,Kielsen VIII Cabinet,2021-02-08,11,,,2021-04-23,11,,,Q60747425,Kielsen V Cabinet,Q106797236,Egede cabinet,,,,
 ,Q105834380,Kielsen VIII Cabinet,2021-02-08,11,,,2021-04-23,11,,,Q96385892,Kielsen VII Cabinet,Q106797236,Egede cabinet,,,,
-,Q106797236,Egede cabinet,2021-04-23,11,,,,,,,Q105834380,Kielsen VIII Cabinet,,,,,,
+,Q106797236,Egede cabinet,2021-04-23,11,,,2022-04-05,11,,,Q105834380,Kielsen VIII Cabinet,Q111486937,Second Egede cabinet,,,,
+,Q111486937,Second Egede cabinet,2022-04-05,11,,,,,,,Q106797236,Egede cabinet,,,,,,
