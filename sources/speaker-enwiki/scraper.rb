@@ -4,15 +4,13 @@
 require 'every_politician_scraper/scraper_data'
 require 'pry'
 
-require 'open-uri/cached'
-
 class OfficeholderList < OfficeholderListBase
   decorator RemoveReferences
   decorator UnspanAllTables
-  decorator WikidataIdsDecorator::Links
+  # decorator WikidataIdsDecorator::Links
 
   def header_column
-    'Term'
+    'Speaker'
   end
 
   class Officeholder < OfficeholderBase
@@ -20,12 +18,13 @@ class OfficeholderList < OfficeholderListBase
       %w[color number name dates].freeze
     end
 
-    def raw_end
-      super || raw_start
+    def raw_combo_date
+      years = super.tidy
+      years =~ /^\d{4}$/ ? "#{years} - #{years}" : years
     end
 
-    def tds
-      noko.css('td,th')
+    def empty?
+      too_early?
     end
   end
 end
