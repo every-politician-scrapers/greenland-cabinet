@@ -1,0 +1,13 @@
+{
+    "jurisdiction": {
+        "name": "Greenland",
+        "id": "Q223"
+    },
+    "cabinet": {
+        "id":     "Q111486937",
+        "start":  "2022-04-05",
+        "parent": "Q10858355"
+    },
+    "source": "https://de.wikipedia.org/wiki/Kabinett_Egede_II",
+    "lang": "de"
+}
