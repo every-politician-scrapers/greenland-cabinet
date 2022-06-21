@@ -1,0 +1,21 @@
+{
+    "jurisdiction": {
+      "name": "Greenland",
+      "id": "Q223"
+    },
+    "cabinet": {
+      "id": "Q111486937",
+      "start": "2022-04-05",
+      "parent": "Q10858355"
+
+    },
+    "source": {
+        "url":   "https://naalakkersuisut.gl/en/Naalakkersuisut/Medlemmer-af-Naalakkersuisut",
+        "title": "Members of the Cabinet - Naalakkersuisut",
+        "lang":  {
+            "code": "en",
+            "wikidata": "Q1860"
+        }
+    },
+    "agent": "every-politican-scrapers/greenland-cabinet"
+}
