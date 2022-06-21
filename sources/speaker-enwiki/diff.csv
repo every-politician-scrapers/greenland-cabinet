@@ -1,13 +1,1 @@
-@@,itemlabel,item,startdate,enddate
-->,Lars Chemnitz,Q3740045->NULL,1989,1991
-->,Bendt Frederiksen,Q44008954->NULL,1991,1995
-->,Knud Sørensen,Q46642660->NULL,1995,1997
-->,Anders Andreassen,Q46480023->NULL,1997,1999
-->,Johan Lund Olsen,Q5965473->NULL,1999,1999
-->,Ole Lynge,Q45759985->NULL,1999,2000
-->,Daniel Skifte,Q51077849->NULL,2001,2002
-->,Anders Andreassen,Q46480023->NULL,2001,2001
-->,Lars-Emil Johansen->Lars Emil Johansen,Q468034,2013,2018
-->,Hans Enoksen,Q310653,2018,2018-10-03->2018
-->,Vivian Motzfeldt,Q55808436,2018-10-03->2018,2021-04-16->2021
-->,Hans Enoksen,Q310653,2021-04-16->2021,
+@@,item,itemlabel,startdate,enddate
