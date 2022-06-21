@@ -1,8 +1,11 @@
 item,itemLabel,position,positionLabel,startDate,endDate,source,sourceDate,psid
-Q100600989,Kalistat Lund,Q107716054,"Minister for Agriculture, Self-Sufficiency, Energy and Environment",2021-04-23,,,,Q100600989-109764AF-DF02-45E6-9519-950ADA30E2E7
-Q109917990,Mariane Paviasen,Q110126947,Minister for Housing and Infrastructure,2021-11-23,,,,Q109917990-7F589E83-4493-4F81-9690-A3345863BD94
-Q47092177,Aqqaluaq B. Egede,Q107716052,Minister for Fisheries and Hunting,2021-04-23,,,,Q47092177-51E4DDB7-0854-4781-8B00-477133A41562
-Q51846080,Múte Bourup Egede,Q679997,Prime Minister of Greenland,2021-04-23,,,,Q51846080-CFD63635-9A6A-4AFD-A031-29267F957D79
-Q53872865,Naaja H. Nathanielsen,Q110126968,"Minister of Finance, Mineral Resources, Justice and Gender Equality",2021-11-23,,,,Q53872865-2F82486D-A5BD-47A4-8C81-0B5A6D2A088C
-Q55808448,Pele Broberg,Q108796498,Minister for Business and Trade,2021-09-27,,,,Q55808448-536D8A13-0716-4971-84EC-1A522A683A12
-Q6862146,Mimi Karlsen,Q107716065,Minister for Social Affairs and Labour,2021-04-23,,,,Q6862146-EA50B55E-65D8-4C7B-B8E7-BDD780940FDD
+Q100600989,Kalistat Lund,Q107716054,"Landwirtschaft, Selbstversorgung, Energie und Umwelt",2021-04-23,,https://de.wikipedia.org/wiki/Kabinett_Egede_II,2022-06-21,Q100600989-109764AF-DF02-45E6-9519-950ADA30E2E7
+Q107715997,Peter Olsen,Q107716048,"Bildung, Kultur, Sport und Kirche",2021-04-23,,https://de.wikipedia.org/wiki/Kabinett_Egede_II,2022-06-21,Q107715997-3716A7F6-FF4B-43F7-81C2-68A9D0834B0A
+Q111728408,Karl Tobiassen,Q107716052,Fischerei und Jagd,2022-04-05,,https://de.wikipedia.org/wiki/Kabinett_Egede_II,2022-06-21,Q111728408-C9C0A91E-3085-4917-8854-49D33E5ABE54
+Q47092177,Aqqaluaq B. Egede,Q112659069,Rohstoffe und Justiz,2022-04-05,,https://de.wikipedia.org/wiki/Kabinett_Egede_II,2022-06-21,Q47092177-B48EE280-A43B-42E5-BFE4-A676F13CD735
+Q51846080,Múte B. Egede,Q679997,Regierungschef,2021-04-23,,https://de.wikipedia.org/wiki/Kabinett_Egede_II,2022-06-21,Q51846080-CFD63635-9A6A-4AFD-A031-29267F957D79
+Q53872865,Naaja H. Nathanielsen,Q110126968,Finanzen und Gleichberechtigung,2021-11-23,,https://de.wikipedia.org/wiki/Kabinett_Egede_II,2022-06-21,Q53872865-2F82486D-A5BD-47A4-8C81-0B5A6D2A088C
+Q55808436,Vivian Motzfeldt,Q108796498,"Äußeres, Erwerb und Handel",2022-04-05,,https://de.wikipedia.org/wiki/Kabinett_Egede_II,2022-06-21,Q55808436-AE4AB854-5256-4215-9B5A-FFACC1819F3F
+Q55808459,Erik Jensen,Q110126947,Wohnungswesen und Infrastruktur,2022-04-05,,https://de.wikipedia.org/wiki/Kabinett_Egede_II,2022-06-21,Q55808459-BA0C6540-C5D5-4CF8-A8E4-E08F5675E345
+Q56285009,Jess Svane,Q107716065,"Soziales, Inneres und Arbeitsmarkt",2022-04-05,,https://de.wikipedia.org/wiki/Kabinett_Egede_II,2022-06-21,Q56285009-5143A7E7-9C2C-480D-BCB8-3E60C2F60A32
+Q6862146,Mimi Karlsen,Q112659074,"Kinder, Jugendliche, Familie und Gesundheit",2022-04-05,,https://de.wikipedia.org/wiki/Kabinett_Egede_II,2022-06-21,Q6862146-F243FE09-2A8D-49FD-8F76-D860C6C5C96F
