@@ -2,10 +2,12 @@
 
 cd $(dirname $0)
 
-if [[ $(jq -r .reference.P854 meta.json) == http* ]]
+SOURCE=$(jq -r '.reference.P854 // .reference.P854' meta.json)
+
+if [[ $SOURCE == http* ]]
 then
-  CURLOPTS='-L -c /tmp/cookies -A eps/1.2'
-  curl $CURLOPTS -o official.html $(jq -r .reference.P854 meta.json)
+  CURLOPTS='--compressed -L -c /tmp/cookies -A eps/1.2'
+  curl $CURLOPTS -o official.html $SOURCE
 fi
 
 cd ~-
