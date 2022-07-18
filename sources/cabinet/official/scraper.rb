@@ -7,17 +7,25 @@ require 'pry'
 class MemberList
   class Member
     field :name do
-      noko.xpath('.//strong/following-sibling::text()').text.split('(').first.tidy
+      noko.css('strong').map(&:text).map(&:tidy).first
     end
 
     field :position do
-      noko.css('strong').first.text.tidy
+      noko.css('.text p').first.text.tidy
+    end
+
+    def empty?
+      name.to_s.tidy.empty?
     end
   end
 
   class Members
+    def member_items
+      super.reject(&:empty?)
+    end
+
     def member_container
-      noko.xpath('//span[@itemprop="articleBody"]//table//tr[td[strong]]')
+      noko.css('.third-section .small-12')
     end
   end
 end

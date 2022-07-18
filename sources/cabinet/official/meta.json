@@ -7,15 +7,17 @@
       "id": "Q111486937",
       "start": "2022-04-05",
       "parent": "Q10858355"
-
     },
-    "source": {
-        "url":   "https://naalakkersuisut.gl/en/Naalakkersuisut/Medlemmer-af-Naalakkersuisut",
-        "title": "Members of the Cabinet - Naalakkersuisut",
-        "lang":  {
-            "code": "en",
-            "wikidata": "Q1860"
+    "reference": {
+        "P854":   "https://naalakkersuisut.gl/naalakkersuisut?sc_lang=da",
+        "P1476": {
+            "text": "Naalakkersuisut",
+            "language": "da"
         }
     },
-    "agent": "every-politican-scrapers/greenland-cabinet"
+    "current_only": "true",
+    "lang": "da",
+    "person_description": {
+        "en": "politician in Greenland"
+    }
 }
